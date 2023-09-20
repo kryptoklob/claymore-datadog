@@ -4,6 +4,6 @@ datadog==0.16.0
 decorator==4.0.11
 idna==2.5
 PyYAML==3.12
-requests==2.18.1
+requests==2.31.0
 simplejson==3.11.1
 urllib3==1.21.1
